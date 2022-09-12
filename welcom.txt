@@ -1,2 +1,0 @@
-welcome to Github.
-This is the welcome file.
