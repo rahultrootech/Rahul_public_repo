@@ -1,0 +1,237 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="th" />
+            <item index="7" class="java.lang.String" itemvalue="td" />
+            <item index="8" class="java.lang.String" itemvalue="tr" />
+            <item index="9" class="java.lang.String" itemvalue="li" />
+            <item index="10" class="java.lang.String" itemvalue="form" />
+            <item index="11" class="java.lang.String" itemvalue="div" />
+            <item index="12" class="java.lang.String" itemvalue="select" />
+            <item index="13" class="java.lang.String" itemvalue="small" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="50">
+            <item index="0" class="java.lang.String" itemvalue="dataclasses" />
+            <item index="1" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="2" class="java.lang.String" itemvalue="pycurl" />
+            <item index="3" class="java.lang.String" itemvalue="asyncio" />
+            <item index="4" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="5" class="java.lang.String" itemvalue="pydantic" />
+            <item index="6" class="java.lang.String" itemvalue="six" />
+            <item index="7" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="8" class="java.lang.String" itemvalue="certifi" />
+            <item index="9" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="10" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="11" class="java.lang.String" itemvalue="urllib3" />
+            <item index="12" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="13" class="java.lang.String" itemvalue="idna" />
+            <item index="14" class="java.lang.String" itemvalue="botocore" />
+            <item index="15" class="java.lang.String" itemvalue="amqp" />
+            <item index="16" class="java.lang.String" itemvalue="asgiref" />
+            <item index="17" class="java.lang.String" itemvalue="h11" />
+            <item index="18" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="19" class="java.lang.String" itemvalue="kombu" />
+            <item index="20" class="java.lang.String" itemvalue="click" />
+            <item index="21" class="java.lang.String" itemvalue="click-didyoumean" />
+            <item index="22" class="java.lang.String" itemvalue="boto3" />
+            <item index="23" class="java.lang.String" itemvalue="fastapi" />
+            <item index="24" class="java.lang.String" itemvalue="celery" />
+            <item index="25" class="java.lang.String" itemvalue="starlette" />
+            <item index="26" class="java.lang.String" itemvalue="anyio" />
+            <item index="27" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="28" class="java.lang.String" itemvalue="click-repl" />
+            <item index="29" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="30" class="java.lang.String" itemvalue="click-plugins" />
+            <item index="31" class="java.lang.String" itemvalue="vine" />
+            <item index="32" class="java.lang.String" itemvalue="billiard" />
+            <item index="33" class="java.lang.String" itemvalue="Deprecated" />
+            <item index="34" class="java.lang.String" itemvalue="wrapt" />
+            <item index="35" class="java.lang.String" itemvalue="packaging" />
+            <item index="36" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="37" class="java.lang.String" itemvalue="redis" />
+            <item index="38" class="java.lang.String" itemvalue="tornado" />
+            <item index="39" class="java.lang.String" itemvalue="humanize" />
+            <item index="40" class="java.lang.String" itemvalue="prometheus-client" />
+            <item index="41" class="java.lang.String" itemvalue="flower" />
+            <item index="42" class="java.lang.String" itemvalue="URLSearchParams" />
+            <item index="43" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="44" class="java.lang.String" itemvalue="chardet" />
+            <item index="45" class="java.lang.String" itemvalue="Django" />
+            <item index="46" class="java.lang.String" itemvalue="razorpay" />
+            <item index="47" class="java.lang.String" itemvalue="pytz" />
+            <item index="48" class="java.lang.String" itemvalue="requests" />
+            <item index="49" class="java.lang.String" itemvalue="sqlparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+          <option value="E501" />
+          <option value="E722" />
+          <option value="W292" />
+          <option value="E301" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="sum" />
+          <option value="next" />
+          <option value="input" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="users.models.OrganizationMaster.objects" />
+          <option value="users.models.Designation.objects" />
+          <option value="users.models.UserDetail.objects" />
+          <option value="users.models.SalaryScenarios.objects" />
+          <option value="users.models.UserSalary.objects" />
+          <option value="salarymanagement.models.Appraisal.objects" />
+          <option value="users.models.UserTeamLeader.objects" />
+          <option value="users.models.UserReporting.objects" />
+          <option value="interviewmanagement.models.Interview.objects" />
+          <option value="interviewmanagement.models.InterviewReviewForm.objects" />
+          <option value="interviewmanagement.models.InterviewReviewForm.DoesNotExist" />
+          <option value="interviewmanagement.models.Interview.DoesNotExist" />
+          <option value="users.models.MonthlyWorkingDays.objects" />
+          <option value="users.models.CreatedLeaveType.objects" />
+          <option value="users.models.UserOverTime.objects" />
+          <option value="directories.congress.models.StateLegislator.objects" />
+          <option value="lxml.etree._Element._Element.text_content" />
+          <option value="directories.states.scrapper.ut.scrpper.UTPersonScraper.response" />
+          <option value="directories.transcript.models.AgencyTranscript.objects" />
+          <option value="task.models.Task.objects" />
+          <option value="datetime.now" />
+          <option value="directories.congress.models.CongressStatus.objects" />
+          <option value="vuedjangobackend.vuengo.task.models.Task.objects" />
+          <option value="dashboard.press.models.Press.get_status_display" />
+          <option value="thinktank.management.commands.aei_blogs.BaseThinkTank.stdout" />
+          <option value="thinktank.management.commands.aei_blogs.BaseThinkTank.style" />
+          <option value="bill.models.Bill.objects" />
+          <option value="directories.congress.models.StateLegislatorBillText.objects" />
+          <option value="directories.congress.models.StateLegislatorBill.objects" />
+          <option value="broadcast.models.Broadcast.DoesNotExist" />
+          <option value="thinktank.models.ThinkTankBlog.objects" />
+          <option value="thinktank.models.ThinkTankAuthor.objects" />
+          <option value="user_request.models.RequestSubType.objects" />
+          <option value="user_request.models.RequestType.objects" />
+          <option value="user_request.models.UserRequest.get_status_display" />
+          <option value="branch.models.Branch.DoesNotExist" />
+          <option value="branch.models.City.region_id" />
+          <option value="users.models.OrganizationMaster.DoesNotExist" />
+          <option value="device_management.models.DeviceManagement.get_device_type_display" />
+          <option value="django.db.models.fields.related.ForeignKey.get_device_type_display" />
+          <option value="device_management.models.DeviceLogs.get_status_display" />
+          <option value="django.db.models.fields.related.ForeignKey.model_name" />
+          <option value="django.db.models.fields.related.ForeignKey.region" />
+          <option value="django.db.models.fields.related.ForeignKey.country" />
+          <option value="django.db.models.fields.related.OneToOneField.email" />
+          <option value="django.db.models.fields.related.ForeignKey.email" />
+          <option value="bs4.SoupStrainer" />
+          <option value="django.db.models.fields.related.ForeignKey.userdetail_set" />
+          <option value="int.employee_id" />
+          <option value="users.models.UserLeaveChange.objects" />
+          <option value="dict.*" />
+          <option value="starlette.requests.Request.scheduler_id" />
+          <option value="starlette.requests.Request.request_id" />
+          <option value="starlette.requests.Request.ean" />
+          <option value="starlette.requests.Request.seller_domain" />
+          <option value="starlette.requests.Request.channel" />
+          <option value="starlette.requests.Request.god_mode" />
+          <option value="starlette.requests.Request.api_key" />
+          <option value="starlette.requests.Request.hours" />
+          <option value="starlette.requests.Request.distinct" />
+          <option value="starlette.requests.Request.params" />
+          <option value="starlette.requests.Request.download" />
+          <option value="starlette.requests.Request.view_more" />
+          <option value="starlette.requests.Request.size" />
+          <option value="starlette.requests.Request.seller_id" />
+          <option value="starlette.requests.Request.public_uri" />
+          <option value="starlette.requests.Request.public_url" />
+          <option value="starlette.requests.Request.seller" />
+          <option value="starlette.requests.Request.target" />
+          <option value="datetime.datetime.timezone" />
+          <option value="src.sellers.routes.ENDPOINT_TYPE_SELLER" />
+          <option value="mollie.api.objects" />
+          <option value="Django_prac.polls.models.Questions.objects" />
+          <option value="Django_prac.blog.models.Questions.objects" />
+          <option value="Django_prac.blog.models.Blog.objects" />
+          <option value="blogproject.blog.models.Post.objects" />
+          <option value="blogproject.blogclass.views.BlogListView.as_view" />
+          <option value="self.model" />
+          <option value="blogproject.blogclass.models.Books.objects" />
+          <option value="Blogging_Project.blogs.models.Blogs.objects" />
+          <option value="Blogging_Project.blogs_generic.models.BlogsGeneric.objects" />
+          <option value="django.forms.forms.ModelForm" />
+          <option value="django.forms.forms.TextInput" />
+          <option value="django.forms.forms.Textarea" />
+          <option value="Blogging_Project.myblog.views.Profile.DoesNotExist" />
+          <option value="blog_project.blog.models.Blog.objects" />
+          <option value="blog_project.blog.models.UserProfile.DoesNotExist" />
+          <option value="Blogging_Project.blogs.models.Blog.objects" />
+          <option value="Blogging_Project.blogs.models.Comment.objects" />
+          <option value="Blogging_Project.blogs.models.UserDevice.objects" />
+          <option value="bookstore_ecommerce.checkout.models.bookstore" />
+          <option value="bookstore_ecommerce.checkout.models.Order.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.id" />
+          <option value="bookstore_ecommerce.bookstore.models.Book.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.__add__" />
+          <option value="bookstore_ecommerce.bookstore.models.Product.objects" />
+          <option value="bookstore_ecommerce.bookstore.models.Category.objects" />
+          <option value="bookstore_ecommerce.orders.models.Order.objects" />
+          <option value="bookstore_ecommerce.bookstore.models.Product.ratings" />
+          <option value="book_ecommerce.management.models.Product.objects" />
+          <option value="book_ecommerce.management.models.Category.objects" />
+          <option value="book_ecommerce.management.models.Product.ratings" />
+          <option value="book_ecommerce.management.models.Order.objects" />
+          <option value="book_ecommerce.management.models.OrderLine.objects" />
+          <option value="django.core.mail.message.EmailMessage.attach_alternative" />
+          <option value="django.db.models.fields.DecimalField.__mul__" />
+          <option value="book_ecommerce.management.models.Order.orderline_item" />
+          <option value="management.models.Product.ratings" />
+          <option value="management.models.Order.id" />
+          <option value="management.models.Order.orderline_item" />
+          <option value="management.models.Product.objects" />
+          <option value="management.models.Order.objects" />
+          <option value="management.models.OrderLine.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="ShellCheck" enabled="true" level="ERROR" enabled_by_default="true">
+      <shellcheck_settings value="SC1113" />
+    </inspection_tool>
+  </profile>
+</component>
